@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there
+I'm Connor, an Engineer and Developer based in League City, Texas
+I like building cool stuff
+I have a degree in mathematics and engineering physics and am currently doing the boot.dev backend developer course!
+
+###Fun Facts:
+- I like surfing, skateboarding, and snowboarding
+- One Piece is my favorite Manga
+- I played college Water Polo
+- **Hobbies** Running, Gym, Gaming
+
 
 <!--
 **MrBushido-002/MrBushido-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
