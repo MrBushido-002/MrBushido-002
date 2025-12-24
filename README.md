@@ -1,5 +1,5 @@
 ## Hi there
-I'm Connor, an Engineer and Developer based in League City, Texas
+I'm Connor, an Engineer and Developer based in League City, Texas.
 I like building cool stuff
 I have a degree in mathematics and engineering physics and am currently doing the boot.dev backend developer course!
 
